@@ -449,14 +449,6 @@ Run:
 streamlit run app.py
 ```
 
-The application will open in the browser at:
-
-```text
-http://localhost:8501
-```
-
----
-
 # 18. Example Workflow
 
 ### Standard Mode
@@ -534,17 +526,7 @@ The project synopsis describes the expected fitness report as including BMI, wor
 
 # 20. Author
 
-**Adesh Vishwakarma**
+**Adesh Vishwakarma** vishwakarmaadesh90@gmail.com
+MSc Data Science Student | BSc Data Science Graduate 
+**Live Demo:** https://intelligent-fitness-recommendation-system-ann-uizfbdhpqcdxkzbe.streamlit.app/
 
-Project: **Intelligent Fitness Recommendation System using Soft Computing Techniques**
-```
-
-### After saving `README.md`
-
-Run these commands:
-
-```bash
-git add README.md
-git commit -m "Add project documentation"
-git push
-```
