@@ -528,5 +528,7 @@ The project synopsis describes the expected fitness report as including BMI, wor
 
 **Adesh Vishwakarma** vishwakarmaadesh90@gmail.com
 MSc Data Science Student | BSc Data Science Graduate 
+
+
 **Live Demo:** https://intelligent-fitness-recommendation-system-ann-uizfbdhpqcdxkzbe.streamlit.app/
 
